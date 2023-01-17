@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKH7m5cO035LoIy8YjEYocm3Cj_VMV7cAetZvEdC6sNbez-M0iA27QAe-1nM5Lvq4TsjLgPw7bCwLtVXFFBStZY8QRkP-gx9Sx187fqeQoNIyJ2ZcU4rPs&usqp=CAE",
+      "price": "15.99",
+      "id": 8
     }
   ]
 }
